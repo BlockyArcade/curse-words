@@ -1,4 +1,4 @@
-# 420-curse-word
+# curse-word
 this repo contains 420+ curse words
 
 4r5e,
