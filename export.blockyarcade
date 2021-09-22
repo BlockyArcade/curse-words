@@ -1,0 +1,5 @@
+run.cmd(export.repo)
+.repo = "README.md"
+initialize.line(4)
+run.cmd(export.bad-words)
+action.bad-words(filter)
